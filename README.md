@@ -1,6 +1,9 @@
 # Modern Timer
 
 A modern, portable countdown timer and stopwatch for Windows. One small `.exe`, no installer, no dependencies.
+<img width="1280" height="799" alt="image" src="https://github.com/user-attachments/assets/6d71f2b0-326f-4ddd-ae6b-25dc7961e154" />
+<img width="754" height="1143" alt="image" src="https://github.com/user-attachments/assets/b10e0088-9914-4572-9f58-496307d1875d" />
+<img width="927" height="294" alt="image" src="https://github.com/user-attachments/assets/398a99f5-a264-4363-965f-e1fba675366f" />
 
 **Developer:** [Nima Moslemy](https://github.com/nimamoslemy)
 
