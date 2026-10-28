@@ -1,0 +1,5 @@
+# Only the README, LICENSE and this file are published. Source stays local.
+*
+!.gitignore
+!README.md
+!LICENSE
