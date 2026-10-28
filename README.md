@@ -1,9 +1,24 @@
 # Modern Timer
 
 A modern, portable countdown timer and stopwatch for Windows. One small `.exe`, no installer, no dependencies.
-<img width="1280" height="799" alt="image" src="https://github.com/user-attachments/assets/6d71f2b0-326f-4ddd-ae6b-25dc7961e154" />
-<img width="754" height="1143" alt="image" src="https://github.com/user-attachments/assets/b10e0088-9914-4572-9f58-496307d1875d" />
-<img width="927" height="294" alt="image" src="https://github.com/user-attachments/assets/398a99f5-a264-4363-965f-e1fba675366f" />
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/b10e0088-9914-4572-9f58-496307d1875d" width="260" alt="Modern Timer, Aurora theme"><br>
+      <sub>Aurora theme</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/6d71f2b0-326f-4ddd-ae6b-25dc7961e154" width="440" alt="Modern Timer, Minimal theme in full screen"><br>
+      <sub>Minimal theme, full screen</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/398a99f5-a264-4363-965f-e1fba675366f" width="520" alt="Modern Timer bar view over a document"><br>
+  <sub>Bar view: a thin progress strip that stays over your work</sub>
+</p>
 
 **Developer:** [Nima Moslemy](https://github.com/nimamoslemy)
 
